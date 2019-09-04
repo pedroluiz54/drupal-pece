@@ -37,6 +37,8 @@ install:
   - editor
   - ckeditor
   - config_split
+  - better_exposed_filters
+  - languagefield
 
 
 dependencies:

@@ -39,6 +39,7 @@ install:
   - config_split
   - better_exposed_filters
   - languagefield
+  - pathauto
 
 
 dependencies:
